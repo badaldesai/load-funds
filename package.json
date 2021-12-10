@@ -1,0 +1,23 @@
+{
+  "name": "load-funds",
+  "version": "0.1.0",
+  "description": "Load funds into account",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badaldesai/load-funds.git"
+  },
+  "author": "Badal Desai <badal.desai@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badaldesai/load-funds/issues"
+  },
+  "homepage": "https://github.com/badaldesai/load-funds#readme",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.34"
+  }
+}
